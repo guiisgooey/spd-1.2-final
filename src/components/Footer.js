@@ -34,7 +34,7 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>About</h2>
-            <Link to='/sign-up'>How it works</Link>
+            <Link to='/'>How it works</Link>
             <Link to='/'>JS Embed</Link>
             <Link to='/'>AR Integration</Link>
             <Link to='/'>Terms of Service</Link>
@@ -50,7 +50,7 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>Models</h2>
-            <Link to='/'>Submit Model</Link>
+            <Link to='/upload'>Submit Model</Link>
             <Link to='/'>Model Creators</Link>
             <Link to='/'>Google Poly</Link>
             <Link to='/'>Copyright</Link>
